@@ -2,8 +2,8 @@
 
 one:
   body: MyText
-  user_id: one
+  user: one
 
 two:
   body: MyText
-  user_id: two
+  user: two
